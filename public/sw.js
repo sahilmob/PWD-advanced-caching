@@ -60,8 +60,8 @@ function isInArray(string, array) {
 		if (array[i] === string) {
 			return true;
 		}
-		return false;
 	}
+	return false;
 }
 
 // Add routing specific strategies
